@@ -1,0 +1,2 @@
+# NewsPortal
+Wordpress Base NewsPortal
